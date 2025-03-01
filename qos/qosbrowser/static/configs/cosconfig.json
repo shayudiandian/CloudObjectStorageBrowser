@@ -1,0 +1,17 @@
+{             
+"SignExpiredTime":360,              
+"ConnectTimeoutInms":60000,
+"ReceiveTimeoutInms":50000,
+"UploadPartSize":10485760,          
+"UploadCopyPartSize":20971520, 
+"UploadThreadPoolSize":5,         
+"DownloadSliceSize":4194304,      
+"DownloadThreadPoolSize":5,        
+"AsynThreadPoolSize":2,            
+"LogoutType":0,
+"LogLevel":3,                       
+"IsDomainSameToHost":false,       
+"DestDomain":"",                    
+"IsUseIntranet":false,            
+"IntranetAddr":""  
+}
